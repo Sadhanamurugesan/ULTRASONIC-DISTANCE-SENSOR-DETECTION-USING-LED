@@ -40,7 +40,7 @@
 
 *  **Circuit Description**
 
-**![circuit][image1]**(circuit.jpeg)  
+**![circuit][image1]**(circuit.jpeg).  
 **The HC-SR04 sensor is connected to the Arduino UNO for distance measurement. The LED is connected through a resistor to an Arduino digital output pin. The Arduino controls the LED according to the detected distance.**
 
 * **Applications**
@@ -57,7 +57,7 @@
 
 * **Result**
 
-**![result][image2]**(result.jpeg)  
+**![result][image2]**(result.jpeg).  
 **Thus, the ultrasonic distance detection system was successfully implemented using Arduino UNO, and the LED provides an indication when an object is detected within the specified distance.**  
 
 
